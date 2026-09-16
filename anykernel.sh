@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=not_kernel by s-k-y.e @ xda-developers
+kernel.string=kernel by noxy
 do.devicecheck=1
 do.modules=0
 do.systemless=0
