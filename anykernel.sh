@@ -10,7 +10,9 @@ do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=r8q
+device.name1=oplus
+device.name2=ossi
+devuce.name3=CPH2487
 supported.versions=11 - 17
 '; } # end properties
 
