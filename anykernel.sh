@@ -12,7 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=oplus
 device.name2=ossi
-devuce.name3=CPH2487
+device.name3=CPH2487
+device.name4=OP5567L1
 supported.versions=11 - 17
 '; } # end properties
 
