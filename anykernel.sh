@@ -5,11 +5,12 @@
 # global properties
 properties() { '
 kernel.string=kernel by noxy
-do.devicecheck=0
+do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
+device.name1=r8q
 supported.versions=11 - 17
 '; } # end properties
 
